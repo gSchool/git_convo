@@ -1,7 +1,7 @@
 my new content:
 
 this is what happens
-when you forget to make a
+hen you forget to make a
 fetch or pull command
 
 keep all the previous content:
@@ -10,6 +10,6 @@ hi
 
 fly
 
-yo yo my name is will and i'm here to be ill
+Hello my name is Will and I am no longer ill. Thank you for being patient with my recklessness
 
 this is jamison's add to txt
