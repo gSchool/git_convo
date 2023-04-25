@@ -1,3 +1,5 @@
+well, well, well
+
 my new content:
 
 this is what happens
@@ -7,12 +9,20 @@ fetch or pull command
 keep all the previous content:
 
 hi
-
-fly
+ly
 
 yo yo my name is will and i'm here to be ill
 
 this is jamison's add to txt
 
 
-Jameel change
+---Jameel change somewher in the middle---
+
+we are all making this chage at the same time
+
+added a final line
+
+Newer content:
+
+this is my manual merge fix
+
