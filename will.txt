@@ -1,0 +1,3 @@
+this is what happens
+when you forget to make a
+fetch or pull command
